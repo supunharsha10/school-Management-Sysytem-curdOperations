@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+div.top {
+    position: relative;
+    border-radius: 25px;
+    width: 1790px;
+    height: 400px;
+  
+  }
+  div.nav {
+    position: sticky;
+    height: 100px;
+  } 
+  h1{
+    font-family: 'Harry P';
+    font-size: 200px;
+	text-align:center;
+}
+ul {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    position: sticky;
+    top: 0;
+  }
+  li.name{
+      float:left;
+  }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgba(145, 145, 145, 0.37);
+  }
+
+  
+    div.botom {
+    position: relative;
+    width: 1790px;
+    height: 300px;
+  } 
+  
+ 

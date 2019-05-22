@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.column{    
+	float: left;
+    width: 22%;
+    margin-left: 2%;
+}
+
+.row:after{content:""; display:table; clear:both;}
+
+body{font-size:15px; font-family:century gothic; background-color:#2B2A2A; color:black; padding:12px;}

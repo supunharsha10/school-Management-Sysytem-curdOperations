@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+ div.logo {
+    position: absolute;
+    left: 0;
+    width: 280px;
+    height: 295px;
+    
+  }
+  div.name {
+    position: absolute;
+    right: 100;
+    top:-50;
+	padding-left: 500px;
+    }
+
+  body {
+    background-image: url("images/back.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+
+  
